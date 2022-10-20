@@ -1,0 +1,24 @@
+baseURL = 'http://opensource.nc3.lu'
+languageCode = 'en-us'
+title = 'Open Source at NC3 - LU'
+copyright = "© Untitled. All rights reserved"
+
+theme = "hugo-arcana"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "."
+    show_post_dates = true
+
+    [[params.social]]
+        title = "GitHub"
+        icon = "fa-github"
+        url = "https://github.com/NC3-LU"
+
+
+
+
+[permalinks]
+  post = '/:year/:month/:day/:slug/'
