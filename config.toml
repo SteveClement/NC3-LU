@@ -1,4 +1,4 @@
-baseURL = 'http://opensource.nc3.lu'
+baseURL = 'https://NC3-LU.github.io'
 languageCode = 'en-us'
 title = 'Open Source at NC3 - LU'
 copyright = "© Untitled. All rights reserved"
