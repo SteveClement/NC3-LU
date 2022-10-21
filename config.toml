@@ -24,7 +24,7 @@ theme = "hugo-arcana"
 
 [params.footer]
     [[params.footer.links]]
-        header = "Links to Stuff"
+        header = "Ecosystem"
         [[params.footer.links.links]]
             title = "Luxembourg House of Cybersecurity"
             url = "https://www.cybersecurity.lu/lhc"
