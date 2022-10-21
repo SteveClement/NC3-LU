@@ -18,12 +18,12 @@ items:
       content: >
         We create our own tools and are also the users.
     - title: Support
-      icon: fa-wrench 
+      icon: fa-wrench
       content: >
         Support our users and the opensource communities
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+    heading: Open source software is definitely more important than ever.
+    contents: And we are committed to improving people's lives through open technologies.
   - type: posts
     #heading: Recent Posts
     content_type: posts

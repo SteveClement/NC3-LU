@@ -22,5 +22,5 @@ vulnerability in one of our projects.
 
 You can contact: opensource@nc3.lu
 
-Ooptionally, encrypt your email with PGP:
+Optionally, encrypt your email with PGP:
 [55F5 D60E EFCA 3591 0089 18E7 A1CB 94DE 57B7 A70D](https://pgp.circl.lu/pks/lookup?search=0xA1CB94DE57B7A70D&fingerprint=on&op=index)
