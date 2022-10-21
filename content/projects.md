@@ -23,7 +23,7 @@ MONARC is a tool and a method allowing an optimised, precise and repeatable risk
 MONARC is an iterative and qualitative method of risk analysis in four stages,
 broadly inspired by ISO/IEC 27005.
 
-MONARC was created by the [CASES team](https://www.cases.lu) which is now part of NCC-LU.
+MONARC was created by the [CASES team](https://www.cases.lu) which is now part of NC3-LU.
 
 
 [![Latest Release](https://img.shields.io/github/release/monarc-project/MonarcAppFO.svg?style=flat-square)](https://github.com/monarc-project/MonarcAppFO/releases/latest)

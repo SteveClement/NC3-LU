@@ -14,7 +14,7 @@ theme = "hugo-arcana"
      post = '/:year/:month/:day/:slug/'
 
 [params]
-    description = "National Coordination Center - NCC-LU"
+    description = "National Coordination Center - NC3-LU"
     show_post_dates = true
 
     [[params.social]]
