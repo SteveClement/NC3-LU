@@ -8,8 +8,5 @@ weight: 60
 tags: ["mosp"]
 ---
 
-
-
-
 The source code of MOSP is hosted on [GitHub](https://github.com/NC3-LU/MOSP)
 and is released under GNU Affero General Public License version 3.

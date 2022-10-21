@@ -9,11 +9,7 @@ tags: ["contact"]
 
 If you have any questions regarding one of our projects: opensource@nc3.lu
 
-
-    Luxembourg House of Cybersecurity
-    122 rue Adolphe Fischer
-    L-1521 Luxembourg
-
+{{< osm >}}
 
 ### Vulnerability disclosure
 

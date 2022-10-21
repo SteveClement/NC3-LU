@@ -3,7 +3,7 @@ title: "Observatory"
 slug: "observatory"
 description: "An observatory for the cybersecurity landscape."
 weight: 60
-tags: [""]
+tags: ["observatory"]
 ---
 
 
@@ -17,4 +17,3 @@ tags: [""]
  trends, and uses various models and benchmarking to provide organisations
  with insights into how they may be exposed to existing or emerging types
  of threats.
-

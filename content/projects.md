@@ -10,7 +10,7 @@ tags: ["projects"]
 
 ### Security Assurance Evaluation Monitoring System 🆕
 
-Provide a real-time monitoring of the level of security assurance of an IT infrastructure.
+Provide a real-time monitoring of the security assurance level of an IT infrastructure.
 
 
 [More information](https://github.com/scandale-project)
@@ -20,12 +20,20 @@ Provide a real-time monitoring of the level of security assurance of an IT infra
 
 MONARC is a tool and a method allowing an optimised, precise and repeatable risk assessment.
 
+MONARC is an iterative and qualitative method of risk analysis in four stages,
+broadly inspired by ISO/IEC 27005.
+
+MONARC was created by the [CASES team](https://www.cases.lu) which is now part of NCC-LU.
+
+
 [![Latest Release](https://img.shields.io/github/release/monarc-project/MonarcAppFO.svg?style=flat-square)](https://github.com/monarc-project/MonarcAppFO/releases/latest)
 ![License](https://img.shields.io/github/license/monarc-project/MonarcAppFO.svg?style=flat-square)
 ![Contributors](https://img.shields.io/github/contributors/monarc-project/MonarcAppFO.svg?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/monarc-project/MonarcAppFO.svg?style=flat-square)
 
+
 [More information](/monarc)
+
 
 
 ### MONARC Global Dashboard

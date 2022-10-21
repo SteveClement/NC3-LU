@@ -1,15 +1,20 @@
 baseURL = 'https://NC3-LU.github.io'
 languageCode = 'en-us'
 title = 'Open Source at NC3 - LU'
-copyright = "© Untitled. All rights reserved"
+copyright = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+enableRobotsTXT = true
 
+# theme as git submodule
 theme = "hugo-arcana"
 
 [taxonomies]
     tag = "tags"
 
+[permalinks]
+     post = '/:year/:month/:day/:slug/'
+
 [params]
-    description = "."
+    description = "National Coordination Center - NCC-LU"
     show_post_dates = true
 
     [[params.social]]
@@ -17,8 +22,12 @@ theme = "hugo-arcana"
         icon = "fa-github"
         url = "https://github.com/NC3-LU"
 
-
-
-
-[permalinks]
-  post = '/:year/:month/:day/:slug/'
+[params.footer]
+    [[params.footer.links]]
+        header = "Links to Stuff"
+        [[params.footer.links.links]]
+            title = "Luxembourg House of Cybersecurity"
+            url = "https://www.cybersecurity.lu/lhc"
+        [[params.footer.links.links]]
+            title = "CIRCL"
+            url = "https://www.circl.lu"
