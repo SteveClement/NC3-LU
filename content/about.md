@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "About us"
 slug: "about"
 description: "The European Cybersecurity Competence Center"
 menu: main
 image: '/images/eccc-logo-web-purpose-desktop.svg'
-image_alt: "MOSP"
-weight: 90
+image_alt: "ECCC logo."
+weight: 20
 tags: ["about"]
 ---
 
@@ -20,6 +20,6 @@ working together with a Network of National Coordination Centres (NCCs) to build
 strong cybersecurity Community.
 
 The Luxembourg House of Cybersecurity (LHC) has been designated as the NCC for
-Luxembourg. Our vision is based on opensource and we aim to become a major actor of the
+Luxembourg. Our vision is based on __opensource__ and we aim to become a major actor of the
 cybersecurity community. This website aims to present our software contributions in this
 regard.

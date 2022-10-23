@@ -2,7 +2,7 @@
 title: "MONARC"
 slug: "monarc"
 description: "MONARC is a tool and a method allowing an optimised, precise and repeatable risk assessment."
-weight: 60
+weight: 20
 tags: ["monarc"]
 ---
 
