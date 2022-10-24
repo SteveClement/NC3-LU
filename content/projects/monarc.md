@@ -21,7 +21,8 @@ services, but also for the sustainability of your business.
 MONARC is an iterative and qualitative method of risk analysis in four stages,
 broadly inspired by ISO/IEC 27005.
 
-MONARC was created by the [CASES team](https://www.cases.lu) which is now part of NC3-LU.
+MONARC was created by the [CASES team](https://www.cases.lu) which is now part
+of [NC3-LU](https://www.nc3.lu).
 
 
 Check out the official [MONARC Website](https://www.monarc.lu).

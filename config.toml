@@ -30,7 +30,7 @@ theme = "hugo-arcana"
             url = "https://www.circl.lu"
         [[params.footer.links.links]]
             title = "NC3"
-            url = "https://nc3.lu"
+            url = "https://www.nc3.lu"
         [[params.footer.links.links]]
             title = "Luxembourg House of Cybersecurity"
             url = "https://www.cybersecurity.lu/lhc"
