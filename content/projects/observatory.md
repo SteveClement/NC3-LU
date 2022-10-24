@@ -17,3 +17,6 @@ tags: ["projects", "observatory"]
  trends, and uses various models and benchmarking to provide organisations
  with insights into how they may be exposed to existing or emerging types
  of threats.
+
+
+[More information](https://www.c3.lu/pages/observe_bulletin.html)
