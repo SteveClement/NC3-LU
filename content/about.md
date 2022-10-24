@@ -3,7 +3,7 @@ title: "About us"
 slug: "about"
 description: "The European Cybersecurity Competence Center"
 menu: main
-image: '/images/eccc-logo-web-purpose-desktop.svg'
+image: '/images/logos/eccc-logo-web-purpose-desktop.svg'
 image_alt: "ECCC logo."
 weight: 20
 tags: ["about"]

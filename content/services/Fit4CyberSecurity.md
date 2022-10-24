@@ -3,7 +3,7 @@ title: "Fit4Cybersecurity"
 slug: "Fit4Cybersecurity"
 description: "Helping entrepreneurs to move towards a better cybersecurity strategy."
 weight: 60
-tags: ["service", "Fit4Cybersecurity"]
+tags: ["services", "Fit4Cybersecurity"]
 ---
 **Fit4Cybersecurity** is a service that includes multiple self-assessment tools.
 Its main goal is to allow users to quickly assess their information security maturity

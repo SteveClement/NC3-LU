@@ -2,8 +2,8 @@
 title: "Observatory"
 slug: "observatory"
 description: "An observatory for the cybersecurity landscape."
-weight: 40
-tags: ["observatory"]
+weight: 20
+tags: ["projects", "observatory"]
 ---
 
 
