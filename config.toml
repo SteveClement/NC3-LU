@@ -26,8 +26,12 @@ theme = "hugo-arcana"
     [[params.footer.links]]
         header = "Ecosystem"
         [[params.footer.links.links]]
-            title = "Luxembourg House of Cybersecurity"
-            url = "https://www.cybersecurity.lu/lhc"
-        [[params.footer.links.links]]
             title = "CIRCL"
             url = "https://www.circl.lu"
+        [[params.footer.links.links]]
+            title = "NC3"
+            url = "https://nc3.lu"
+        [[params.footer.links.links]]
+            title = "Luxembourg House of Cybersecurity"
+            url = "https://www.cybersecurity.lu/lhc"
+

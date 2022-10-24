@@ -18,3 +18,5 @@ You can register to the next training [here](https://www.monarc.lu/trainings).
 
 Our last training materials are available
 [here](https://github.com/monarc-project/monarc-training/releases/latest).
+
+
