@@ -1,10 +1,9 @@
 ---
 title: "Contact"
 slug: "contact"
-description: "We love hearing from people"
+description: "We love hearing from people."
 menu: main
 weight: 60
-tags: ["contact"]
 ---
 
 ### E-mail

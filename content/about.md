@@ -1,12 +1,11 @@
 ---
 title: "About us"
 slug: "about"
-description: "The European Cybersecurity Competence Center"
+description: "The European Cybersecurity Competence Center."
 menu: main
 image: '/images/logos/eccc-logo-web-purpose-desktop.svg'
 image_alt: "ECCC logo."
 weight: 20
-tags: ["about"]
 ---
 
 The NC3 represents Luxembourg as a national cybersecurity coordination center

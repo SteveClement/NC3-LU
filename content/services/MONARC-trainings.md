@@ -2,7 +2,7 @@
 title: "MONARC trainings"
 slug: "monarc-trainings"
 description: "Our MONARC trainings"
-weight: 60
+weight: 20
 tags: ["services", "trainings"]
 ---
 

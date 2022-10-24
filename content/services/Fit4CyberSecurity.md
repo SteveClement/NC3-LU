@@ -2,7 +2,7 @@
 title: "Fit4Cybersecurity"
 slug: "Fit4Cybersecurity"
 description: "Helping entrepreneurs to move towards a better cybersecurity strategy."
-weight: 60
+weight: 30
 tags: ["services", "Fit4Cybersecurity"]
 ---
 **Fit4Cybersecurity** is a service that includes multiple self-assessment tools.
@@ -20,7 +20,6 @@ This is the first step of a more thorough assessment, that we call a _Diagnostic
 The latter dives deeper into the organisation's context, its state of practice and the
 existing documentation in terms of cybersecurity risk management, with the goal to
 address gaps with respect to baseline practices.
-<!-- A [CASES Diagnostic]({% link _services/diagnostic.markdown %}) could be performed for free by one of our Cybersecurity experts, on the condition that the score obtained in the Fit4Cybersecurity self-evaluation is at least of 65/100 and the organisation is located in Luxembourg. -->
 
 Complementing Fit4Cybersecurity, [Fit4Contract](https://contract.cases.lu) is a similar
 tool whose aim is to help business owners ensure that contracts (already signed but

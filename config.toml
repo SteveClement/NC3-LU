@@ -1,7 +1,7 @@
 baseURL = 'https://opensource.nc3.lu'
 languageCode = 'en-us'
 title = 'Open Source at NC3 - LU'
-copyright = "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+copyright = "The European Cybersecurity Competence Center - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
 enableRobotsTXT = true
 
 # theme as git submodule
@@ -14,7 +14,7 @@ theme = "hugo-arcana"
      post = '/:year/:month/:day/:slug/'
 
 [params]
-    description = "National Coordination Center - NC3-LU"
+    description = "National Cybersecurity Competence Center - NC3-LU"
     show_post_dates = true
 
     [[params.social]]
