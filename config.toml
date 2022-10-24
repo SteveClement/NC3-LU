@@ -34,4 +34,8 @@ theme = "hugo-arcana"
         [[params.footer.links.links]]
             title = "Luxembourg House of Cybersecurity"
             url = "https://www.cybersecurity.lu/lhc"
-
+    [[params.footer.links]]
+        header = "Get In Touch"
+        [[params.footer.links.links]]
+            title = "Our PGP key"
+            url = "https://pgp.circl.lu/pks/lookup?op=hget&search=5632abce12a3d6e5355ca37025b2ac32"

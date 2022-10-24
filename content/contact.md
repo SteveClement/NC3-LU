@@ -7,16 +7,31 @@ weight: 60
 tags: ["contact"]
 ---
 
-If you have any questions regarding one of our projects: opensource@nc3.lu
+### E-mail
+
+opensource@nc3.lu
+
+PGP fingerprint:
+[D533 46C5 10C6 D5E9 81B3 1CD8 AB14 3B6C 5BD5 0BD3](https://pgp.circl.lu/pks/lookup?op=hget&search=5632abce12a3d6e5355ca37025b2ac32)
+
+
+Do not hesistate to contact us if you have any questions regarding one of our projects.
+
+
+
+### Telephone
+
+Telephone: [+352 274 00 98 601](tel:+3522740098601)
+
+
+
+### Postal address
 
 {{< osm >}}
 
-### Vulnerability disclosure
+
+
+### Vulnerability disclosure related to projects
 
 Please do not open directly a GitHub issue if you have found a security
 vulnerability in one of our projects.
-
-You can contact: opensource@nc3.lu
-
-Optionally, encrypt your email with PGP:
-[55F5 D60E EFCA 3591 0089 18E7 A1CB 94DE 57B7 A70D](https://pgp.circl.lu/pks/lookup?search=0xA1CB94DE57B7A70D&fingerprint=on&op=index)
