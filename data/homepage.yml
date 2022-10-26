@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.png"
-  contents: "_Open Source Security tools from the_ **National Cybersecurity Competence Center** _of Luxembourg_"
+  contents: "_Open Source Security tools from the_ **National Cybersecurity Competence Centre** _of Luxembourg_"
   button:
     contents: "Explore our projects"
     url: "/projects"
