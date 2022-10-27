@@ -1,6 +1,6 @@
 ---
 title: "Fit4Cybersecurity"
-slug: "Fit4Cybersecurity"
+slug: "fit4cybersecurity-service"
 description: "Helping entrepreneurs to move towards a better cybersecurity strategy."
 weight: 30
 tags: ["services", "Fit4Cybersecurity"]
