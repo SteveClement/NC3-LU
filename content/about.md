@@ -19,7 +19,7 @@ The NC3 represents Luxembourg as a National Cybersecurity Competence Centre
 [European Cybersecurity Competence Centre](https://cybersecurity-centre.europa.eu/index_en)
 (in Bucharest).
 
-As a member of the network of European Competence Centres our mission is to:
+As a member of the network of __European Competence Centres__ our mission is to:
 
 - __protect__ our economy and society from cyberattacks;
 - __build__ cybersecurity capabilities that will strengthen the economy by

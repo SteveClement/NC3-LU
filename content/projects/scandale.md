@@ -16,6 +16,9 @@ The aim is to nudge constituencies to take action and also give them leverage
 on non-cooperating suppliers.
 
 No infrastructure change or patch after repeated notifications is not a good
-trajectory to be on--hence the name, scandale 
+trajectory to be on--hence the name, scandale.
+
+The [CIRCL team](https://www.circl.lu) and the NC3-LU OSS team are working
+together in order to improve this shameful situation.
 
 [More information](https://github.com/scandale-project)
