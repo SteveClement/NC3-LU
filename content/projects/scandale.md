@@ -21,4 +21,5 @@ trajectory to be on--hence the name, scandale.
 The [CIRCL team](https://www.circl.lu) and the NC3-LU OSS team are working
 together in order to improve this shameful situation.
 
-[More information](https://github.com/scandale-project)
+[More information](https://github.com/scandale-project)  
+[References](https://pumpkin-project.readthedocs.io/en/latest/references.html)  
