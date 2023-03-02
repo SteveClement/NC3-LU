@@ -8,11 +8,7 @@ weight: 60
 
 ### E-mail
 
-opensource@nc3.lu
-
-PGP fingerprint:
-[D533 46C5 10C6 D5E9 81B3 1CD8 AB14 3B6C 5BD5 0BD3](https://pgp.circl.lu/pks/lookup?op=hget&search=5632abce12a3d6e5355ca37025b2ac32)
-
+info@lhc.lu
 
 Do not hesistate to contact us if you have any questions regarding one of our
 projects or if you want to work with us.

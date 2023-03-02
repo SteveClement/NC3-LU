@@ -6,6 +6,7 @@ image: "/images/logos/logo-coral.png"
 image_alt: "Logo of CORAL"
 weight: 60
 tags: ["projects", "coral"]
+draft: true
 ---
 
 CORAL, which stands for

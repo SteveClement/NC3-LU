@@ -4,7 +4,7 @@ slug: "mosp"
 description: "A collaborative platform for creating, editing and sharing validated JSON objects of any type."
 image: "/images/logos/logo-MOSP.png"
 image_alt: "Logo of MOSP"
-weight: 40
+weight: 30
 tags: ["projects", "mosp", "monarc"]
 ---
 

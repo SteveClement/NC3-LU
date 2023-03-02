@@ -2,7 +2,7 @@
 title: "Informed Governance Project 🆕"
 slug: "informed-governance-project"
 description: "Our tools related to the NIS Informed Governance Project."
-weight: 31
+weight: 21
 tags: ["projects", "informed-governance-project", "monarc"]
 ---
 

@@ -4,7 +4,7 @@ slug: "monarc"
 description: "MONARC is a tool and a method allowing an optimised, precise and repeatable risk assessment."
 image: "/images/logos/logo-MONARC.png"
 image_alt: "Logo of MONARC"
-weight: 30
+weight: 20
 tags: ["projects", "monarc"]
 ---
 
@@ -20,9 +20,6 @@ services, but also for the sustainability of your business.
 
 MONARC is an iterative and qualitative method of risk analysis in four stages,
 broadly inspired by ISO/IEC 27005.
-
-MONARC was created by the [CASES team](https://www.cases.lu) which is now part
-of [NC3-LU](https://www.nc3.lu).
 
 
 Check out the official [MONARC Website](https://www.monarc.lu).
