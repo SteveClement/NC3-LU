@@ -5,4 +5,4 @@ Contact: opensource@nc3.lu
 Encryption: https://pgp.circl.lu/pks/lookup?op=hget&search=5632abce12a3d6e5355ca37025b2ac32
 
 # Security Policy
-Policy: https://opensource.nc3.lu/contact/#vulnerability-disclosure-related-to-projects
+Policy: https://code.lhc.lu/contact/#vulnerability-disclosure-related-to-projects
