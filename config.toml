@@ -1,7 +1,7 @@
 baseURL = 'https://code.lhc.lu'
 languageCode = 'en-us'
-title = 'Open Source at NC3 - LU'
-copyright = "The National Cybersecurity Competence Centre of Luxembourg - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+title = 'Open Source at Luxembourg House of Cybersecurity'
+copyright = "The Luxembourg House of Cybersecurity - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
 enableRobotsTXT = true
 
 # theme as git submodule
@@ -14,11 +14,16 @@ theme = "hugo-arcana"
      post = '/:year/:month/:day/:slug/'
 
 [params]
-    description = "National Cybersecurity Competence Centre - NC3-LU"
+    description = "Luxembourg House of Cybersecurity"
     show_post_dates = true
 
     [[params.social]]
-        title = "GitHub"
+        title = "CIRCL GitHub account"
+        icon = "fa-github"
+        url = "https://github.com/CIRCL"
+
+    [[params.social]]
+        title = "NC3 GitHub account"
         icon = "fa-github"
         url = "https://github.com/NC3-LU"
 
@@ -32,10 +37,10 @@ theme = "hugo-arcana"
             title = "NC3"
             url = "https://www.nc3.lu"
         [[params.footer.links.links]]
-            title = "Luxembourg House of Cybersecurity"
-            url = "https://www.cybersecurity.lu/lhc"
+            title = "The national cybersecurity portal"
+            url = "https://www.cybersecurity.lu"
         [[params.footer.links.links]]
-            title = "National Coordination Centres"
+            title = "National Coordination Centres of Europe"
             url = "https://cybersecurity-centre.europa.eu/nccs_en"
     [[params.footer.links]]
         header = "Get In Touch"
