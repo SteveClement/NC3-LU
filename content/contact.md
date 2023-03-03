@@ -32,3 +32,6 @@ Important: An appointment is required for every meeting in our offices.
 
 Please do not open directly a GitHub issue if you have found a security
 vulnerability in one of our projects.
+You can [report an incident](https://circl.lu/report/) on the CIRCL page.
+Or send an encrypted mail to: [info@circl.lu](mailto:info@circl.lu).
+In case of emergency, you reach CIRCL on their direct phone line [+352 247 88444](tel:+3522478844).
