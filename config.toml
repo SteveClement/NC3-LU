@@ -27,6 +27,11 @@ theme = "hugo-arcana"
         icon = "fa-github"
         url = "https://github.com/NC3-LU"
 
+    [[params.social]]
+        title = "CyberSecurityLuxembourg GitHub account"
+        icon = "fa-github"
+        url = "https://github.com/CybersecurityLuxembourg"
+
 [params.footer]
     [[params.footer.links]]
         header = "Ecosystem"
