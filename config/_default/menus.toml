@@ -1,8 +1,17 @@
 
 [[main]]
     name = "Projects"
-    url = "/projects"
     weight = 30
+[[main]]
+    parent = "Projects"
+    name = "CIRCL"
+    url = "/projects/CIRCL"
+    weight = 31
+[[main]]
+    parent = "Projects"
+    name = "NC3"
+    url = "/projects/NC3"
+    weight = 32
 [[main]]
     name = "Services"
     url = "/services"
