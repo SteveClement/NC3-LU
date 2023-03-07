@@ -1,24 +1,23 @@
-
 [[main]]
     name = "Projects"
     weight = 30
 [[main]]
     parent = "Projects"
     name = "CIRCL"
-    url = "/projects/CIRCL"
+    url = "/projects/circl"
     weight = 31
 [[main]]
     parent = "Projects"
     name = "NC3"
-    url = "/projects/NC3"
+    url = "/projects/nc3"
     weight = 32
 [[main]]
     parent = "Projects"
     name = "CyberLux"
+    url = "/projects/cyberlux"
     weight = 33
 [[main]]
     name = "Services"
-    url = "/services"
     weight = 40
 [[main]]
     parent = "Services"
