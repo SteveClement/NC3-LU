@@ -1,36 +1,44 @@
 [[main]]
+    identifier = "projects"
     name = "Projects"
     weight = 30
 [[main]]
+    identifier = "projects-circl"
     parent = "Projects"
     name = "CIRCL"
     url = "/projects/CIRCL"
     weight = 31
 [[main]]
-    parent = "Projects"
-    name = "NC3"
-    url = "/projects/NC3"
-    weight = 32
-[[main]]
+    identifier = "projects-cyberlux"
     parent = "Projects"
     name = "CyberLux"
     url = "/projects/CyberLux"
+    weight = 32
+[[main]]
+    identifier = "projects-nc3"
+    parent = "Projects"
+    name = "NC3"
+    url = "/projects/NC3"
     weight = 33
 [[main]]
+    identifier = "services"
     name = "Services"
     weight = 40
 [[main]]
-    parent = "Services"
-    name = "NC3"
-    url = "/services/NC3"
-    weight = 41
-[[main]]
+    identifier = "services-circl"
     parent = "Services"
     name = "CIRCL"
     url = "/services/CIRCL"
-    weight = 42
+    weight = 41
 [[main]]
+    identifier = "services-lhc"
     parent = "Services"
     name = "LHC"
     url = "/services/LHC"
+    weight = 42
+[[main]]
+    identifier = "services-nc3"
+    parent = "Services"
+    name = "NC3"
+    url = "/services/NC3"
     weight = 43
