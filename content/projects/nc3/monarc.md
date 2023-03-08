@@ -6,6 +6,9 @@ image: "/images/logos/logo-MONARC.png"
 image_alt: "Logo of MONARC"
 weight: 20
 tags: ["projects", "monarc"]
+author="NC3"
+repository = "monarc-project/MonarcAppFO"
+draft = false
 ---
 
 [![Latest Release](https://img.shields.io/github/release/monarc-project/MonarcAppFO.svg?style=flat-square)](https://github.com/monarc-project/MonarcAppFO/releases/latest)
@@ -21,5 +24,6 @@ services, but also for the sustainability of your business.
 MONARC is an iterative and qualitative method of risk analysis in four stages,
 broadly inspired by ISO/IEC 27005.
 
+{{< readme >}}
 
 Check out the official [MONARC Website](https://www.monarc.lu).
