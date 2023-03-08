@@ -1,15 +1,15 @@
 ---
 title: "OpenXeco"
 slug: "OpenXeco"
-description = "aka 'open exchange for ecosystems', an ecosystem Management & interconnection platform"
+description: "aka 'open exchange for ecosystems', an ecosystem Management & interconnection platform"
 image: "/images/logos/logo-openxeco.png"
 image_alt: "Logo of Fit4CyberSecurity"
-logo = "logo-openxeco.png"
-author="NC3"
-repository = "CybersecurityLuxembourg/openxeco-core"
+logo: "logo-openxeco.png"
+author: "NC3"
+repository: "CybersecurityLuxembourg/openxeco-core"
 weight: 50
 tags: ["projects", "OpenXeco"]
-draft = false
+draft: false
 ---
 
 [![Latest release](https://img.shields.io/github/release/CyberSecurityLuxembourg/openxeco-core.svg?style=flat-square)](https://github.com/CybersecurityLuxembourg/openxeco-core/releases/latest)

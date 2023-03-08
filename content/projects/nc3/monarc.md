@@ -6,9 +6,9 @@ image: "/images/logos/logo-MONARC.png"
 image_alt: "Logo of MONARC"
 weight: 20
 tags: ["projects", "monarc"]
-author="NC3"
-repository = "monarc-project/MonarcAppFO"
-draft = false
+author: "NC3"
+repository: "monarc-project/MonarcAppFO"
+draft: false
 ---
 
 [![Latest Release](https://img.shields.io/github/release/monarc-project/MonarcAppFO.svg?style=flat-square)](https://github.com/monarc-project/MonarcAppFO/releases/latest)

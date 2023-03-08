@@ -1,15 +1,15 @@
 ---
 title: "MISP"
-author = "CIRCL"
+author: "CIRCL"
 slug: "misp"
 description: "Open Source Threat Intelligence and Sharing Platform"
 image: "/images/logos/logo-misp.png"
 image_alt: "Logo of MISP"
-logo = "logo-misp.png"
+logo: "logo-misp.png"
 weight: 10
 tags: ["projects", "misp"]
-repository = "MISP/MISP"
-draft = false
+repository: "MISP/MISP"
+draft: false
 ---
 
 MISP is an open source software solution for collecting, storing, distributing
