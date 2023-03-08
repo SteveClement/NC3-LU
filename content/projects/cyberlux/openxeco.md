@@ -1,11 +1,15 @@
 ---
 title: "OpenXeco"
 slug: "OpenXeco"
-description: "A self-assessment tool to help business owners implement a better cybersecurity strategy."
-image: "/images/logos/logo-fit4cybersecurity.png"
+description: "aka 'open exchange for ecosystems', an ecosystem Management & interconnection platform"
+image: "/images/logos/logo-openxeco.png"
 image_alt: "Logo of Fit4CyberSecurity"
+logo: "logo-openxeco.png"
+author: "NC3"
+repository: "CybersecurityLuxembourg/openxeco-core"
 weight: 50
-tags: ["projects", "Fit4CyberSecurity"]
+tags: ["projects", "OpenXeco"]
+draft: false
 ---
 
 [![Latest release](https://img.shields.io/github/release/CyberSecurityLuxembourg/openxeco-core.svg?style=flat-square)](https://github.com/CybersecurityLuxembourg/openxeco-core/releases/latest)
@@ -14,5 +18,7 @@ tags: ["projects", "Fit4CyberSecurity"]
 openXeco, aka « open exchange for ecosystems », is an open-source project to manage and interconnect ecosystems.
 
 The software solution offers multiple applications with simple UX to enhance community management. This includes a repertory of the ecosystem, a content management system, communication tools and collaboration processes between the organisation and the community.
+
+{{< readme >}}
 
 [More information](https://openxeco.org)
