@@ -5,7 +5,7 @@ description: "A CSA compliant self-assessment and basic level certification fram
 image: "/images/logos/logo-coral.png"
 image_alt: "Logo of CORAL"
 weight: 60
-tags: ["projects", "coral"]
+tags: ["projects", "coral", "nc3"]
 draft: true
 ---
 

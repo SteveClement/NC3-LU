@@ -7,6 +7,7 @@ logo = "/images/logos/logo-cerebrate.png"
 weight = 10
 draft = false
 repository = "cerebrate-project/cerebrate"
+tags = ["projects", "cerebrate", "circl"]
 +++
 
 {{< readme >}}

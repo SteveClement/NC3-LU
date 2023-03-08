@@ -7,6 +7,7 @@ logo = "/images/logos/logo-pandora.svg"
 weight = 10
 draft = false
 repository = "pandora-analysis/pandora"
+tags = ["projects", "pandora", "circl"]
 +++
 
 {{< readme >}}

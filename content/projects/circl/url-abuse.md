@@ -6,6 +6,7 @@ logo = "logo-urlabuse.png"
 weight = 10
 draft = false
 repository = "CIRCL/url-abuse"
+tags = ["projects", "urlabuse", "circl"]
 +++
 
 {{< readme >}}

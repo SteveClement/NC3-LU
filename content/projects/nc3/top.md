@@ -6,6 +6,7 @@ description = "A set of tools that allow any organisation to start testing its s
 logo = "logo-tp.png"
 author="NC3"
 repository = "NC3-LU/TestingPlatform"
+tags = ["projects", "top", "nc3"]
 +++
 
 {{< readme >}}

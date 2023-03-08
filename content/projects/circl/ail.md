@@ -7,6 +7,7 @@ logo = "/images/logos/logo-ail.png"
 weight = 10
 draft = false
 repository = "ail-project/ail-framework"
+tags = ["projects", "ail", "circl"]
 +++
 
 {{< readme >}}
