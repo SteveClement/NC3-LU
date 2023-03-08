@@ -3,7 +3,7 @@ title: "PyMOSP"
 slug: "pymosp"
 description: "A collaborative platform for creating, editing and sharing validated JSON objects of any type."
 weight: 31
-tags: ["projects", "mosp"]
+tags: ["projects", "mosp", "nc3"]
 ---
 
 PyMOSP is a Python library to access MOSP.

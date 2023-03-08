@@ -7,6 +7,7 @@ logo = "/images/logos/typosquatting-finder.png"
 weight = 10
 draft = false
 repository = "ail-project/ail-typo-website"
+tags = ["projects", "typo", "circl"]
 +++
 
 {{< readme >}}

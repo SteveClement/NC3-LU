@@ -7,6 +7,7 @@ logo = "/images/logos/logo-lookyloo.png"
 weight = 10
 draft = false
 repository = "Lookyloo/Lookyloo"
+tags = ["projects", "lookyloo", "circl"]
 +++
 
 {{< readme >}}
