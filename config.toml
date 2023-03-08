@@ -6,8 +6,7 @@ copyright = "The Luxembourg House of Cybersecurity - Attribution-ShareAlike 4.0 
 enableRobotsTXT = true
 Paginate = 4
 
-# theme as git submodule
-theme = "hugo-arcana"
+theme = "kode"
 
 [taxonomies]
     tag = "tags"
