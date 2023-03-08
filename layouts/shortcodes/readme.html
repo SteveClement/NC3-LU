@@ -1,0 +1,2 @@
+{{ $data := resources.GetRemote ( printf "https://raw.githubusercontent.com/%s/master/README.md"  $.Page.Params.repository) }}
+{{ $data.Content | markdownify | safeHTML }}
