@@ -1,8 +1,10 @@
 baseURL = 'https://code.lhc.lu'
 languageCode = 'en-us'
 title = 'Open Source at Luxembourg House of Cybersecurity'
+description = "Open Source Inventory of the Luxembourg House of Cybersecurity"
 copyright = "The Luxembourg House of Cybersecurity - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
 enableRobotsTXT = true
+Paginate = 4
 
 # theme as git submodule
 theme = "hugo-arcana"
@@ -16,6 +18,11 @@ theme = "hugo-arcana"
 [params]
     description = "Luxembourg House of Cybersecurity"
     show_post_dates = true
+    RSSLink = "/index.xml"
+    author = "LHC" # add your company name
+    github = "https://github.com/NC3-LU" # add your github profile name
+    twitter = "houseofcyber_lu" # add your twitter profile
+    email = "code@lhc.lu"
 
     [[params.social]]
         title = "CIRCL GitHub account"
