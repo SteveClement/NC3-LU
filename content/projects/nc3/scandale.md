@@ -4,6 +4,7 @@ slug: "scandale"
 description: "Providing a real-time monitoring of the security assurance level of an IT infrastructure."
 weight: 10
 tags: ["projects", "scandale"]
+author: "NC3"
 draft: true
 ---
 

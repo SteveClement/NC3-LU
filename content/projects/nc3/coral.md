@@ -6,6 +6,7 @@ image: "/images/logos/logo-coral.png"
 image_alt: "Logo of CORAL"
 weight: 60
 tags: ["projects", "coral", "nc3"]
+author: "NC3"
 draft: true
 ---
 

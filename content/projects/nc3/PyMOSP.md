@@ -3,6 +3,7 @@ title: "PyMOSP"
 slug: "pymosp"
 description: "A collaborative platform for creating, editing and sharing validated JSON objects of any type."
 weight: 31
+author: "NC3"
 tags: ["projects", "mosp", "nc3"]
 ---
 
