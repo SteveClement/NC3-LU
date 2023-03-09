@@ -1,0 +1,7 @@
+<hr/>
+<img src="{{ $.Site.BaseURL }}/img/{{ .Params.logo }}" class="thumb float-right" alt="...">
+<dl>
+	<dt>Author</dt><dd><a href="{{ (index .Site.Data.authors .Params.author).url }}">{{ (index .Site.Data.authors .Params.author).name }}</a></dd>
+	<dt>Repository</dt><dd><a href="https://github.com/{{ .Params.repository }}" target="_blank">{Github]/{{ .Params.repository }}</a></dd>
+</dl>
+<hr/>
