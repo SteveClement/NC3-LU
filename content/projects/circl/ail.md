@@ -1,7 +1,7 @@
 +++
 title = "AIL"
 author = "CIRCL"
-description = "Framework to analyse nformation leaks"
+description = "Framework to analyse information leaks"
 image = "/images/logos/logo-ail.png"
 logo = "/images/logos/logo-ail.png"
 weight = 10
