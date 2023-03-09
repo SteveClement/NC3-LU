@@ -2,7 +2,7 @@
 title: "MOSP"
 slug: "mosp"
 description: "A collaborative platform for creating, editing and sharing validated JSON objects of any type."
-image: "/images/logos/logo-MOSP.png"
+image: "/img/logo-MOSP.png"
 image_alt: "Logo of MOSP"
 logo: "logo-mosp.png"
 author: "NC3"

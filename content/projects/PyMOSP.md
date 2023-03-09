@@ -5,6 +5,8 @@ description: "A collaborative platform for creating, editing and sharing validat
 weight: 31
 author: "NC3"
 tags: ["projects", "mosp", "nc3"]
+logo: "logo_nc3.jpg"
+repository: "NC3-LU/PyMOSP"
 ---
 
 PyMOSP is a Python library to access MOSP.

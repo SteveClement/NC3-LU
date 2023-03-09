@@ -1,7 +1,7 @@
 [[main]]
     identifier = "projects"
     name = "Projects"
-    url = "/tags/projects"
+    url = "/projects"
     weight = 30
 [[main]]
     identifier = "projects-circl"

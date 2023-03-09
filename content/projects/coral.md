@@ -2,10 +2,12 @@
 title: "CORAL"
 slug: "coral"
 description: "A CSA compliant self-assessment and basic level certification framework"
-image: "/images/logos/logo-coral.png"
+image: "/img/logo-coral.png"
 image_alt: "Logo of CORAL"
+logo: "logo-coral.png"
 weight: 60
 tags: ["projects", "coral", "nc3"]
+logo: "logo_nc3.jpg"
 author: "NC3"
 draft: true
 ---

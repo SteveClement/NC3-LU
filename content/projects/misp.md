@@ -3,7 +3,7 @@ title: "MISP"
 author: "CIRCL"
 slug: "misp"
 description: "Open Source Threat Intelligence and Sharing Platform"
-image: "/images/logos/logo-misp.png"
+image: "/img/logo-misp.png"
 image_alt: "Logo of MISP"
 logo: "logo-misp.png"
 weight: 10

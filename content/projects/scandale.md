@@ -3,8 +3,10 @@ title: "Security Assurance Evaluation Monitoring System 🆕"
 slug: "scandale"
 description: "Providing a real-time monitoring of the security assurance level of an IT infrastructure."
 weight: 10
-tags: ["projects", "scandale"]
+tags: ["projects", "scandale", "NC3"]
 author: "NC3"
+logo: "logo_nc3.jpg"
+repository: "scandale-project/scandale"
 draft: true
 ---
 

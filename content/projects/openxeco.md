@@ -2,7 +2,7 @@
 title: "OpenXeco"
 slug: "OpenXeco"
 description: "aka 'open exchange for ecosystems', an ecosystem Management & interconnection platform"
-image: "/images/logos/logo-openxeco.png"
+image: "/img/logo-openxeco.png"
 image_alt: "Logo of OpenXeco"
 logo: "logo-openxeco.png"
 author: "NC3"
