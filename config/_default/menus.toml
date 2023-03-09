@@ -10,14 +10,8 @@
     url = "/projects/CIRCL"
     weight = 31
 [[main]]
-    identifier = "projects-cyberlux"
-    parent = "projects"
-    name = "CyberLux"
-    url = "/projects/CyberLux"
-    weight = 32
-[[main]]
     identifier = "projects-nc3"
     parent = "projects"
     name = "NC3"
     url = "/projects/NC3"
-    weight = 33
+    weight = 32
