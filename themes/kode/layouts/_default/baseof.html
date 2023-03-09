@@ -31,7 +31,7 @@
   <link rel="prev" href="{{ .Params.prev }}"> {{ end }} {{ if (isset .Params "next") }}
   <link rel="next" href="{{ .Params.next }}"> {{ end }}
 
-  {{ partial "favicon" . }}
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
   <link href="{{ .Site.BaseURL }}{{ "/css/font.css" | relURL }}" rel="stylesheet" type="text/css">
   <link href="{{ .Site.BaseURL }}{{ "/css/kube.min.css" | relURL }}" rel="stylesheet" type="text/css">
