@@ -1,7 +1,7 @@
 +++
 title = "AIL"
 author = "CIRCL"
-description = "Framework to analyse information leaks"
+description = "AIL Project is an open source framework composed of different modules to collect, crawl, dig and analyse unstructured data"
 image = "/img/logo-ail.png"
 logo = "logo-ail.png"
 weight = 10
