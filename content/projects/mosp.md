@@ -14,7 +14,3 @@ draft: false
 
 {{< readme >}}
 
-The source code of MOSP is released under
-GNU Affero General Public License version 3.
-
-[More information](https://github.com/NC3-LU/MOSP)
