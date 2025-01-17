@@ -1,22 +1,16 @@
   <footer id="footer">
     <nav>
-      <ul>
-        <li>
-          <a href="{{ .Site.BaseURL }}/projects/">Projects</a>
-        </li>
-        <li>
-          &middot;
-        </li>
-        <li>
-          <a href="https://opensource-metrics.circl.lu" rel="noopener noreferrer" target="_blank">CIRCL's Open Source metrics</a>
-        </li>
+     <ul>
+       <li>
+        &middot;
+       </li>
+       {{ range .Site.Menus.footer }}
+         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         <li>
           &middot;
         </li>
-        <li>
-          <a href="https://lhc.lu/contact" target="_blank">Contact</a>
-        </li>
+       {{ end }}
       </ul>
     </nav>
-    <p>LHC &middot; <i>CC BY-SA</i></p>
+    <p>{{ .Site.Params.Footer | markdownify }}</p>
   </footer>

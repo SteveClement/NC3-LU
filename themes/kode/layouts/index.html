@@ -5,16 +5,15 @@
 <div id="main">
   <div id="hero">
     <h1>{{.Title}}</h1>
-    <p>{{.Description}}</p>
+    <p>{{.Description | markdownify }}</p>
   </div>
   <div id="action-buttons">
-    <a href="{{ .Site.BaseURL }}/projects/" class="button outline big">Discover our Projects</a>
-    <p>powered by the two centres hosted at the Luxembourg House of Cybersecurity: <a href="https://circl.lu/" target="_blank">CIRCL</a> &amp; <a href="https://nc3.lu/" target="_blank">NC3</a></p>
+    <a href="{{ .Site.BaseURL }}{{ .Params.button.link }}" class="button outline big">{{ .Params.button.title | markdownify}}</a>
+    <p>{{ .Params.button.text | markdownify}}</p>
   </div>
   <center>
     <div class="message focus" data-component="message">
-    <b>Open source software is more important than ever!</b>
-    <i>And we are committed to improve and cyber secure the society through open technologies.</i>
+      {{.Params.message | markdownify }}
     </div>
   </center>
 </div>

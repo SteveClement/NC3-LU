@@ -1,8 +1,14 @@
 baseURL = 'https://code.lhc.lu'
-languageCode = 'en-us'
-title = 'Open Source at Luxembourg House of Cybersecurity'
-description = "Open Source Inventory of the Luxembourg House of Cybersecurity"
+languageCode = 'en-uk'
+
+# homepage params
+title = 'Code @ LHC'
+description = "Inventory of **Open Source Software** of the *Luxembourg House of Cybersecurity*"
+main_button = "Discover our Projects"
+main_button_sub = "powered by the two centres hosted at the Luxembourg House of Cybersecurity: [CIRCL](https://circl.lu) & [NC3](https://nc3.lu)"
+subtitle = "**Open source software is more important than ever!** *And we are committed to improve and cyber secure the society through open technologies.*"
 copyright = "The Luxembourg House of Cybersecurity - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+
 enableRobotsTXT = true
 Paginate = 4
 
@@ -13,6 +19,17 @@ theme = "kode"
 
 [permalinks]
      post = '/:year/:month/:day/:slug/'
+
+[[menu.main]]
+
+[[menu.footer]]
+    name = "Projects"
+    weight = 10
+    url = "/projects/"
+[[menu.footer]]
+    name = "Contact"
+    weight = 90
+    url = "https://lhc.lu/contact"
 
 [params]
     description = "Luxembourg House of Cybersecurity"
@@ -38,23 +55,3 @@ theme = "kode"
         icon = "fa-github"
         url = "https://github.com/CybersecurityLuxembourg"
 
-[params.footer]
-    [[params.footer.links]]
-        header = "Ecosystem"
-        [[params.footer.links.links]]
-            title = "CIRCL"
-            url = "https://www.circl.lu"
-        [[params.footer.links.links]]
-            title = "NC3"
-            url = "https://www.nc3.lu"
-        [[params.footer.links.links]]
-            title = "The national cybersecurity portal"
-            url = "https://www.cybersecurity.lu"
-        [[params.footer.links.links]]
-            title = "National Coordination Centres of Europe"
-            url = "https://cybersecurity-centre.europa.eu/nccs_en"
-    [[params.footer.links]]
-        header = "Get In Touch"
-        [[params.footer.links.links]]
-            title = "Our PGP key"
-            url = "https://pgp.circl.lu/pks/lookup?op=hget&search=5632abce12a3d6e5355ca37025b2ac32"
